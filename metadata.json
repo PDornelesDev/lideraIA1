@@ -1,0 +1,7 @@
+{
+  "name": "LideraIA - Leadership Intelligence Assistant",
+  "description": "An advanced AI-powered platform for leaders to enhance team performance, generate constructive feedback, and receive strategic management insights using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
